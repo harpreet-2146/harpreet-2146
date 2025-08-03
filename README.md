@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harpreet-2146
 - 👀 I’m interested in learning and expanding my knowlegde and experience in computer science branches 
-- 🌱 I’m currently first year btech cse cybersecurity spealisation student 
-  gmail: @harpreetk2146@gmail.com
+- 🌱 I’m currently second year btech cse cybersecurity spealisation student 
 - 😄 Pronouns: she/her
 
 <!---
