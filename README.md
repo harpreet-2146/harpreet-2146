@@ -23,19 +23,17 @@
 <!-- About Me -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280">
 
-## 💫 About Me
+## About Me
 
 Hey there! I'm **Harpreet** (but you can call me Preeti 💜)
 
-🎓 B.Tech CSE @ REVA University, Bangalore
-
-🌸 I love building **beautiful, functional web apps** that make people go *"ooh that's cute"*
+🌸 I love building **beautiful, functional web apps** 
 
 🤖 Currently obsessed with **AI + Web** — making smart things look pretty
 
 🌙 Peak productivity hours: **midnight - 3am** (don't judge lol)
 
-🎯 2025 vibes: **435+ contributions** and counting!
+🎯 2025 vibes: **400+ contributions** and counting!
 
 <br clear="right"/>
 
@@ -110,22 +108,6 @@ Hey there! I'm **Harpreet** (but you can call me Preeti 💜)
 
 </div>
 
-<br>
-
-<div align="center">
-
-| Project | What it does | Built with |
-|:-------:|:-------------|:-----------|
-| **Zenith Cortex** | AI career platform with resume analyzer, ATS scoring & personalized roadmaps | React, Node, MongoDB, Vertex AI |
-| **Hivemind** | Transforms topics into beautiful interactive knowledge graphs | React, Cytoscape.js, Qdrant, Groq |
-| **Fakeye** | Checks if stuff on the internet is actually true | React, FastAPI, Sentence Transformers |
-| **QueueLess** | No more standing in canteen lines + WhatsApp updates | React, Node, Express, WhatsApp API |
-| **Devlance** | Freelancing but make it blockchain *(frontend)* | React, Tailwind, Web3 |
-
-</div>
-
-<br>
-
 ---
 
 <!-- Contribution Graph -->
@@ -144,7 +126,7 @@ Hey there! I'm **Harpreet** (but you can call me Preeti 💜)
 <!-- Connect -->
 <div align="center">
 
-## 💌 Let's Be Friends!
+## 💌 Let's Be Friends And Collabrate!
 
 <br>
 
@@ -174,10 +156,11 @@ Hey there! I'm **Harpreet** (but you can call me Preeti 💜)
 
 ---
 
+*made with 💜 and huge caffeine intake at 2am*
+
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E0C3FC,50:8EC5FC,100:B8F5EC&height=120&section=footer)
 
-*made with 💜 and huge caffeine intake at 2am*
 
 </div>
