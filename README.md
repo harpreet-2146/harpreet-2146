@@ -62,28 +62,7 @@ motto: "Ship fast, break things, fix them faster"
 
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=harpreet-2146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-2146&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-2146&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="150"/>
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/harpreet-2146/harpreet-2146/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
@@ -98,10 +77,6 @@ motto: "Ship fast, break things, fix them faster"
 <br>
 
 **💼 Open to exciting opportunities and collaborations!**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=harpreet-2146&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
