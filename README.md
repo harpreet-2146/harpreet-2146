@@ -154,13 +154,7 @@ Hey there! I'm **Harpreet** (but you can call me Preeti 💜)
 
 <br>
 
----
-
-*made with 💜 and huge caffeine intake at 2am*
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E0C3FC,50:8EC5FC,100:B8F5EC&height=120&section=footer)
 
 
-</div>
+
+
