@@ -79,7 +79,7 @@
 
 ---
 
-## 📊 Consistency > Motivation
+## 📊 Stats
 
 <div align="center">
 
