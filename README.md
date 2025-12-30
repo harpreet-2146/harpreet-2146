@@ -11,46 +11,45 @@ I build things that work. Sometimes they're beautiful.
 <br>
 
 [![GitHub](https://img.shields.io/badge/500+%20commits%20in%202025-7b2cbf?style=flat-square&logo=github&logoColor=white)](https://github.com/harpreet-2146)
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-4a208a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harpreet-kaur-gothra/)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-4a208a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harpreetk21/)
 
 </div>
 
 ---
 
-### About
+### What I Work With
 
-Second-year CS student who builds full-stack apps, ships AI projects, and leads hackathon teams.
+<div align="center">
 
-Currently exploring: **AI/ML**, **System Design**, **Web3**
+<img src="https://skillicons.dev/icons?i=js,python,java,solidity,react,vite,tailwind,nodejs,express,fastapi,flask,mongodb,postgres,firebase,docker,git,gcp,vercel&theme=dark&perline=9" />
 
-Peak hours: **midnight onwards** ☕
-
----
-
-### Tech
-
-```js
-const harpreet = {
-    languages:  ["JavaScript", "Python", "Java", "Solidity"],
-    frontend:   ["React", "Vite", "Tailwind", "Framer Motion"],
-    backend:    ["Node.js", "Express", "FastAPI", "Flask"],
-    databases:  ["MongoDB", "PostgreSQL", "Firebase"],
-    ai_ml:      ["Vertex AI", "LangChain", "DSPy", "Transformers"],
-    tools:      ["Git", "Docker", "GCP", "Render", "Vercel"]
-};
-```
+</div>
 
 ---
 
 ### Projects
 
-| Project | What it does | Tech |
-|---------|--------------|------|
-| [**Zenith Cortex**](https://github.com/harpreet-2146/Zenith-Cortex) | AI career platform connecting students, recruiters & mentors | React, FastAPI, Vertex AI |
-| [**FakEye**](https://github.com/harpreet-2146/fakeye) | Real-time AI fact checker with stance detection | React, FastAPI, SerpAPI |
-| [**DevLance**](https://github.com/SnippetTechie/DevLance) | Web3 freelance marketplace with smart contracts | React, Solidity, Blockchain |
-| [**QueueLess**](https://github.com/harpreet-2146/QueueLess) | Computer vision seat detection for campus canteens | React, Python, OpenCV |
-| [**Speaky**](https://github.com/harpreet-2146/speaky) | Browser voice assistant with Web Speech API | React, Web Speech API |
+<div align="center">
+
+<a href="https://github.com/harpreet-2146/Zenith-Cortex">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harpreet-2146&repo=Zenith-Cortex&bg_color=1a1a2e&title_color=9d4edd&text_color=ffffff&icon_color=7b2cbf&hide_border=true" />
+</a>
+<a href="https://github.com/harpreet-2146/fakeye">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harpreet-2146&repo=fakeye&bg_color=1a1a2e&title_color=9d4edd&text_color=ffffff&icon_color=7b2cbf&hide_border=true" />
+</a>
+
+<a href="https://github.com/harpreet-2146/QueueLess">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harpreet-2146&repo=QueueLess&bg_color=1a1a2e&title_color=9d4edd&text_color=ffffff&icon_color=7b2cbf&hide_border=true" />
+</a>
+<a href="https://github.com/harpreet-2146/speaky">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harpreet-2146&repo=speaky&bg_color=1a1a2e&title_color=9d4edd&text_color=ffffff&icon_color=7b2cbf&hide_border=true" />
+</a>
+
+<a href="https://github.com/SnippetTechie/DevLance">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnippetTechie&repo=DevLance&bg_color=1a1a2e&title_color=9d4edd&text_color=ffffff&icon_color=7b2cbf&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
@@ -62,8 +61,7 @@ const harpreet = {
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harpreet-2146&show_icons=true&bg_color=1a1a2e&title_color=7b2cbf&text_color=ffffff&icon_color=9d4edd&hide_border=true&count_private=true" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-2146&background=1a1a2e&ring=7b2cbf&fire=9d4edd&currStreakLabel=e0aaff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=harpreet-2146&show_icons=true&bg_color=1a1a2e&title_color=7b2cbf&text_color=ffffff&icon_color=9d4edd&hide_border=true&count_private=true" height="180">
 
 </div>
 
@@ -71,13 +69,12 @@ const harpreet = {
 
 <div align="center">
 
-**Open to GSoC 2025 • Internships • Collaborations**
+**GSoC 2026** • **Internships** • **Collaborations**
 
-[Email](mailto:harpreetk2146@gmail.com) • [LinkedIn](https://www.linkedin.com/in/harpreet-kaur-gothra/) • [GitHub](https://github.com/harpreet-2146)
+[harpreetk2146@gmail.com](mailto:harpreetk2146@gmail.com) • [LinkedIn](https://www.linkedin.com/in/harpreetk21/) • [GitHub](https://github.com/harpreet-2146)
 
-</div>
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,50:4a208a,100:1a1a2e&height=100&section=footer)
 
-
-
+</div>
