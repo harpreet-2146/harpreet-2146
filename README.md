@@ -9,7 +9,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/500+_commits_in_2025-7b2cbf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harpreet-2146)
+[![GitHub](https://img.shields.io/badge/500_commits_in_2025-7b2cbf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harpreet-2146)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Let’s_Connect-4a208a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harpreetk21/)
 
