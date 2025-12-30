@@ -1,11 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a208a,100:7b2cbf&height=200&section=header&text=Harpreet%20Kaur&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineering%20Focused&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a208a,100:7b2cbf&height=200&section=header&text=Harpreet%20Kaur&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Applied%20AI%&descAlignY=58&descSize=18)
 
 <br>
 
-> **I build systems, not just interfaces.**  
-> Code-first. Impact-driven. Always shipping.
+> **I build practical systems with real users in mind.**  
+> Clean code. Open problems. Continuous iteration.
 
 <br>
 
