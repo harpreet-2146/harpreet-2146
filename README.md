@@ -17,28 +17,10 @@ I build things that work. Sometimes they're beautiful.
 </div>
 
 ---
-
-### Tech Stack
-
+What I Work With
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Solidity](https://img.shields.io/badge/Solidity-1a1a2e?style=for-the-badge&logo=solidity&logoColor=white)
-
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=009688)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
-
+<img src="https://skillicons.dev/icons?i=js,python,java,solidity,react,vite,tailwind,nodejs,express,fastapi,flask,mongodb,postgres,firebase,docker,git,gcp,vercel&theme=dark&perline=9" />
 </div>
-
 ---
 
 ### Projects
@@ -91,12 +73,3 @@ I build things that work. Sometimes they're beautiful.
 
 </div>"center">
 
-**GSoC 2026** • **Internships** • **Collaborations**
-
-[harpreetk2146@gmail.com](mailto:harpreetk2146@gmail.com) • [LinkedIn](https://www.linkedin.com/in/harpreetk21/) • [GitHub](https://github.com/harpreet-2146)
-
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,50:4a208a,100:1a1a2e&height=100&section=footer)
-
-</div>
