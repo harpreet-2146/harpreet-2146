@@ -21,7 +21,7 @@ What I Work With
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,python,java,solidity,react,vite,tailwind,nodejs,express,fastapi,flask,mongodb,postgres,firebase,docker,git,gcp,vercel&theme=dark&perline=9" />
 </div>
----
+---<br>
 
 ### Projects
 
@@ -71,5 +71,4 @@ What I Work With
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,50:4a208a,100:1a1a2e&height=100&section=footer)
 
-</div>"center">
-
+</div>
