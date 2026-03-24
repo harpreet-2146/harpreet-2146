@@ -1,27 +1,31 @@
 <div align="center">
 
-<!-- ☀️ SUMMER GARDEN HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E1,25:FFB4C8,50:C8A2E8,75:88D8B0,100:FFE8CC&height=180&section=header&text=harpreet%20kaur&fontSize=42&fontColor=5A3E6B&fontAlignY=32&desc=full%20stack%20·%20applied%20ai%20·%20open%20source&descSize=14&descColor=8B6B9E&descAlignY=52&animation=twinkling" width="100%" />
+<!-- ANIMATED HEADER SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&multiline=true&width=600&height=80&lines=hey%2C+i'm+harpreet+%E2%9C%BF" alt="hey, i'm harpreet ✿" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=2500&pause=600&color=FFB347&center=true&vCenter=true&width=500&height=30&lines=i+build+things+that+work+%E2%98%80%EF%B8%8F;full+stack+%C2%B7+applied+ai+%C2%B7+open+source+%F0%9F%8C%BB;shipping+code%2C+not+just+ideas+%F0%9F%8D%89" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=2800&pause=700&color=C8A2E8&center=true&vCenter=true&width=500&height=25&lines=building+things+that+actually+work+%E2%98%80%EF%B8%8F;somewhere+between+an+idea+and+a+deploy+%F0%9F%8C%B7;probably+debugging+rn+%F0%9F%8C%BB;i+ship%2C+therefore+i+am+%F0%9F%8D%89;hello+from+bangalore+%F0%9F%8C%BA" alt="typing" />
+`cs student` · `builder by default`
 
 <br>
 
 <a href="https://www.linkedin.com/in/harpreetk21/">
-<img src="https://img.shields.io/badge/-let's%20be%20friends-FFB347?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-let's%20connect-FFB347?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:harpreetk2146@gmail.com">
-<img src="https://img.shields.io/badge/-say%20hi%20✿-FF9EB5?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/-say%20hi-FF6B9D?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://github.com/harpreet-2146">
-<img src="https://img.shields.io/badge/-my%20garden%20🌱-88D8B0?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-my%20repos-88D8B0?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+</div>
+
+<br>
+
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" />
 
 `✿ · ❀ · ✿ · ❀ · ✿ · ❀ · ✿`
 
