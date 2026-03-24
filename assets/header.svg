@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" fill="none">
+  <style>
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes sway { 0%,100% { transform: rotate(-3deg); } 50% { transform: rotate(3deg); } }
+    @keyframes flutter { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.6); } }
+    @keyframes twinkle { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+    @keyframes drift { 0% { transform: translateX(0); } 50% { transform: translateX(15px); } 100% { transform: translateX(0); } }
+    .sun { animation: spin 30s linear infinite; transform-origin: 680px 55px; }
+    .cloud1 { animation: drift 8s ease-in-out infinite; }
+    .cloud2 { animation: drift 10s ease-in-out infinite 2s; }
+    .flower1 { animation: sway 3s ease-in-out infinite; transform-origin: 90px 180px; }
+    .flower2 { animation: sway 3.5s ease-in-out infinite 0.5s; transform-origin: 150px 175px; }
+    .flower3 { animation: sway 2.8s ease-in-out infinite 1s; transform-origin: 650px 178px; }
+    .flower4 { animation: sway 3.2s ease-in-out infinite 0.3s; transform-origin: 720px 180px; }
+    .butterfly1 { animation: float 4s ease-in-out infinite; }
+    .butterfly2 { animation: float 5s ease-in-out infinite 1.5s; }
+    .bwing { animation: flutter 0.4s ease-in-out infinite; }
+    .sparkle { animation: twinkle 2s ease-in-out infinite; }
+    .sparkle2 { animation: twinkle 2.5s ease-in-out infinite 0.8s; }
+    .sparkle3 { animation: twinkle 1.8s ease-in-out infinite 1.5s; }
+  </style>
+
+  <!-- sky gradient bg -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF5E6"/>
+      <stop offset="100%" stop-color="#FFE8F0"/>
+    </linearGradient>
+    <linearGradient id="sunGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="16" fill="url(#sky)"/>
+
+  <!-- sun -->
+  <g class="sun">
+    <circle cx="680" cy="55" r="30" fill="url(#sunGrad)" opacity="0.9"/>
+    <!-- rays -->
+    <line x1="680" y1="15" x2="680" y2="5" stroke="#FFD700" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="680" y1="95" x2="680" y2="105" stroke="#FFD700" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="640" y1="55" x2="630" y2="55" stroke="#FFD700" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="720" y1="55" x2="730" y2="55" stroke="#FFD700" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="652" y1="27" x2="645" y2="20" stroke="#FFD700" stroke-width="2" stroke-linecap="round"/>
+    <line x1="708" y1="27" x2="715" y2="20" stroke="#FFD700" stroke-width="2" stroke-linecap="round"/>
+    <line x1="652" y1="83" x2="645" y2="90" stroke="#FFD700" stroke-width="2" stroke-linecap="round"/>
+    <line x1="708" y1="83" x2="715" y2="90" stroke="#FFD700" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- clouds -->
+  <g class="cloud1" opacity="0.6">
+    <ellipse cx="180" cy="45" rx="40" ry="18" fill="white"/>
+    <ellipse cx="200" cy="35" rx="30" ry="16" fill="white"/>
+    <ellipse cx="160" cy="38" rx="25" ry="14" fill="white"/>
+  </g>
+  <g class="cloud2" opacity="0.4">
+    <ellipse cx="480" cy="35" rx="35" ry="15" fill="white"/>
+    <ellipse cx="500" cy="28" rx="25" ry="13" fill="white"/>
+    <ellipse cx="465" cy="30" rx="20" ry="11" fill="white"/>
+  </g>
+
+  <!-- grass/ground -->
+  <path d="M0 170 Q100 160 200 168 Q300 175 400 165 Q500 158 600 167 Q700 174 800 162 V200 H0 Z" fill="#C8E6A0" opacity="0.5"/>
+  <path d="M0 178 Q100 172 200 176 Q300 180 400 174 Q500 170 600 176 Q700 181 800 173 V200 H0 Z" fill="#A8D882" opacity="0.4"/>
+
+  <!-- flowers left side -->
+  <g class="flower1">
+    <!-- stem -->
+    <path d="M90 180 Q88 160 92 140" stroke="#6BBF59" stroke-width="2" fill="none"/>
+    <ellipse cx="88" cy="155" rx="6" ry="3" fill="#A8D882" transform="rotate(-20 88 155)"/>
+    <!-- petals -->
+    <circle cx="87" cy="135" r="5" fill="#FF9EB5"/>
+    <circle cx="97" cy="135" r="5" fill="#FF9EB5"/>
+    <circle cx="92" cy="130" r="5" fill="#FF9EB5"/>
+    <circle cx="87" cy="140" r="5" fill="#FFB4C8"/>
+    <circle cx="97" cy="140" r="5" fill="#FFB4C8"/>
+    <circle cx="92" cy="136" r="4" fill="#FFD700"/>
+  </g>
+
+  <g class="flower2">
+    <path d="M150 175 Q148 158 152 138" stroke="#6BBF59" stroke-width="2" fill="none"/>
+    <!-- daisy -->
+    <ellipse cx="152" cy="133" rx="4" ry="8" fill="white" transform="rotate(0 152 133)"/>
+    <ellipse cx="152" cy="133" rx="4" ry="8" fill="white" transform="rotate(60 152 133)"/>
+    <ellipse cx="152" cy="133" rx="4" ry="8" fill="white" transform="rotate(120 152 133)"/>
+    <circle cx="152" cy="133" r="4" fill="#FFB347"/>
+  </g>
+
+  <!-- flowers right side -->
+  <g class="flower3">
+    <path d="M650 178 Q648 162 652 145" stroke="#6BBF59" stroke-width="2" fill="none"/>
+    <circle cx="648" cy="140" r="5" fill="#C8A2E8"/>
+    <circle cx="656" cy="140" r="5" fill="#C8A2E8"/>
+    <circle cx="652" cy="135" r="5" fill="#C8A2E8"/>
+    <circle cx="648" cy="146" r="5" fill="#D4B5F0"/>
+    <circle cx="656" cy="146" r="5" fill="#D4B5F0"/>
+    <circle cx="652" cy="141" r="4" fill="#FFE066"/>
+  </g>
+
+  <g class="flower4">
+    <path d="M720 180 Q718 165 722 148" stroke="#6BBF59" stroke-width="2" fill="none"/>
+    <ellipse cx="722" cy="143" rx="4" ry="8" fill="#FFB4C8" transform="rotate(0 722 143)"/>
+    <ellipse cx="722" cy="143" rx="4" ry="8" fill="#FFB4C8" transform="rotate(72 722 143)"/>
+    <ellipse cx="722" cy="143" rx="4" ry="8" fill="#FFB4C8" transform="rotate(144 722 143)"/>
+    <ellipse cx="722" cy="143" rx="4" ry="8" fill="#FFB4C8" transform="rotate(216 722 143)"/>
+    <ellipse cx="722" cy="143" rx="4" ry="8" fill="#FFB4C8" transform="rotate(288 722 143)"/>
+    <circle cx="722" cy="143" r="3.5" fill="#FF6B9D"/>
+  </g>
+
+  <!-- butterflies -->
+  <g class="butterfly1" transform="translate(300, 60)">
+    <g class="bwing"><path d="M0 0 Q-12 -10 -8 -20 Q-2 -15 0 0" fill="#FFB4C8" opacity="0.8"/></g>
+    <g class="bwing" transform="scale(-1,1)"><path d="M0 0 Q-12 -10 -8 -20 Q-2 -15 0 0" fill="#FFB4C8" opacity="0.8"/></g>
+    <ellipse cx="0" cy="-5" rx="1" ry="6" fill="#333"/>
+  </g>
+
+  <g class="butterfly2" transform="translate(550, 80)">
+    <g class="bwing"><path d="M0 0 Q-10 -8 -6 -16 Q-1 -12 0 0" fill="#C8A2E8" opacity="0.8"/></g>
+    <g class="bwing" transform="scale(-1,1)"><path d="M0 0 Q-10 -8 -6 -16 Q-1 -12 0 0" fill="#C8A2E8" opacity="0.8"/></g>
+    <ellipse cx="0" cy="-4" rx="0.8" ry="5" fill="#333"/>
+  </g>
+
+  <!-- sparkles -->
+  <text class="sparkle" x="250" y="50" font-size="10" fill="#FFD700">✦</text>
+  <text class="sparkle2" x="420" y="70" font-size="8" fill="#FFB4C8">✦</text>
+  <text class="sparkle3" x="600" y="45" font-size="9" fill="#C8A2E8">✦</text>
+  <text class="sparkle" x="350" y="90" font-size="7" fill="#88D8B0">✦</text>
+  <text class="sparkle2" x="130" y="60" font-size="8" fill="#FFD700">✦</text>
+
+  <!-- main text -->
+  <text x="400" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#5A3E6B" font-weight="bold" font-style="italic">harpreet kaur</text>
+  <text x="400" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8B6B9E" letter-spacing="4">full stack · applied ai · open source</text>
+
+</svg>

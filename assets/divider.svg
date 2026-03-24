@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 30" fill="none">
+  <style>
+    @keyframes bloom { 0%,100% { transform: scale(1); } 50% { transform: scale(1.15); } }
+    .b1 { animation: bloom 3s ease-in-out infinite; transform-origin: 150px 15px; }
+    .b2 { animation: bloom 3s ease-in-out infinite 0.6s; transform-origin: 250px 15px; }
+    .b3 { animation: bloom 3s ease-in-out infinite 1.2s; transform-origin: 350px 15px; }
+    .b4 { animation: bloom 3s ease-in-out infinite 1.8s; transform-origin: 450px 15px; }
+  </style>
+  <!-- vine -->
+  <path d="M50 15 Q100 8 150 15 Q200 22 250 15 Q300 8 350 15 Q400 22 450 15 Q500 8 550 15" stroke="#C8E6A0" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- tiny leaves -->
+  <ellipse cx="100" cy="12" rx="5" ry="2.5" fill="#A8D882" transform="rotate(-30 100 12)"/>
+  <ellipse cx="200" cy="18" rx="5" ry="2.5" fill="#A8D882" transform="rotate(20 200 18)"/>
+  <ellipse cx="300" cy="12" rx="5" ry="2.5" fill="#A8D882" transform="rotate(-25 300 12)"/>
+  <ellipse cx="400" cy="18" rx="5" ry="2.5" fill="#A8D882" transform="rotate(15 400 18)"/>
+  <ellipse cx="500" cy="12" rx="5" ry="2.5" fill="#A8D882" transform="rotate(-20 500 12)"/>
+  <!-- flowers on vine -->
+  <g class="b1">
+    <circle cx="147" cy="14" r="3" fill="#FFB4C8"/><circle cx="153" cy="14" r="3" fill="#FFB4C8"/>
+    <circle cx="150" cy="11" r="3" fill="#FFB4C8"/><circle cx="150" cy="17" r="3" fill="#FF9EB5"/>
+    <circle cx="150" cy="14" r="2" fill="#FFE066"/>
+  </g>
+  <g class="b2">
+    <circle cx="247" cy="14" r="3" fill="#C8A2E8"/><circle cx="253" cy="14" r="3" fill="#C8A2E8"/>
+    <circle cx="250" cy="11" r="3" fill="#C8A2E8"/><circle cx="250" cy="17" r="3" fill="#D4B5F0"/>
+    <circle cx="250" cy="14" r="2" fill="#FFE066"/>
+  </g>
+  <g class="b3">
+    <circle cx="347" cy="14" r="3" fill="#FFB4C8"/><circle cx="353" cy="14" r="3" fill="#FFB4C8"/>
+    <circle cx="350" cy="11" r="3" fill="#FFB4C8"/><circle cx="350" cy="17" r="3" fill="#FF9EB5"/>
+    <circle cx="350" cy="14" r="2" fill="#FFE066"/>
+  </g>
+  <g class="b4">
+    <circle cx="447" cy="14" r="3" fill="#88D8B0"/><circle cx="453" cy="14" r="3" fill="#88D8B0"/>
+    <circle cx="450" cy="11" r="3" fill="#88D8B0"/><circle cx="450" cy="17" r="3" fill="#A8E8C8"/>
+    <circle cx="450" cy="14" r="2" fill="#FFE066"/>
+  </g>
+</svg>

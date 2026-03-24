@@ -1,38 +1,32 @@
 <div align="center">
 
-<!-- ANIMATED HEADER SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&multiline=true&width=600&height=80&lines=hey%2C+i'm+harpreet+%E2%9C%BF" alt="hey, i'm harpreet ✿" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=2500&pause=600&color=FFB347&center=true&vCenter=true&width=500&height=30&lines=i+build+things+that+work+%E2%98%80%EF%B8%8F;full+stack+%C2%B7+applied+ai+%C2%B7+open+source+%F0%9F%8C%BB;shipping+code%2C+not+just+ideas+%F0%9F%8D%89" alt="Typing SVG" />
+<!-- 🌸 ANIMATED SUMMER GARDEN HEADER — sun spins, flowers sway, butterflies flutter, sparkles twinkle -->
+<img src="./assets/header.svg" width="100%" />
 
 <br>
 
-`cs student` · `builder by default`
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=2800&pause=700&color=C8A2E8&center=true&vCenter=true&width=500&height=25&lines=building+things+that+actually+work+%E2%98%80%EF%B8%8F;somewhere+between+an+idea+and+a+deploy+%F0%9F%8C%B7;probably+debugging+rn+%F0%9F%8C%BB;i+ship%2C+therefore+i+am+%F0%9F%8D%89;hello+from+bangalore+%F0%9F%8C%BA" alt="typing" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/harpreetk21/">
-<img src="https://img.shields.io/badge/-let's%20connect-FFB347?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-let's%20be%20friends-FFB347?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:harpreetk2146@gmail.com">
-<img src="https://img.shields.io/badge/-say%20hi-FF6B9D?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/-say%20hi%20✿-FF9EB5?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/harpreet-2146">
-<img src="https://img.shields.io/badge/-my%20repos-88D8B0?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-my%20garden%20🌱-88D8B0?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br>
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" />
-
-`✿ · ❀ · ✿ · ❀ · ✿ · ❀ · ✿`
-
-</div>
-
-<br>
-
+<!-- ✿ ABOUT ME -->
+<img align="right" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="girl coding" />
 
 second-year cs student at reva university, bangalore.  
 i build full-stack apps, break things at hackathons,  
@@ -49,9 +43,8 @@ new tech rabbit holes, or pretending i'll sleep early ✨
 
 <div align="center">
 
-<br>
-
-`✿ · ❀ · ✿ · ❀ · ✿ · ❀ · ✿`
+<!-- 🌿 ANIMATED FLOWER VINE DIVIDER — flowers bloom in sequence along a wavy vine -->
+<img src="./assets/divider.svg" width="55%" />
 
 <br><br>
 
@@ -59,19 +52,17 @@ new tech rabbit holes, or pretending i'll sleep early ✨
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,nestjs,fastapi,flask&theme=light&perline=8" />
-<br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,solidity,mongodb,postgres,firebase&theme=light&perline=8" />
-<br>
-<img src="https://skillicons.dev/icons?i=docker,git,gcp,vercel,figma&theme=light&perline=5" />
+<!-- 🧵 ANIMATED CLOTHESLINE — tech tags swing independently on two lines -->
+<img src="./assets/techline.svg" width="80%" />
 
 <br>
 
-<sub>and whatever else the project demands honestly</sub>
+<sub>also: typescript · java · vite · firebase · flask · vercel · figma · and whatever else the project demands</sub>
 
 <br><br>
 
-`✿ · ❀ · ✿ · ❀ · ✿ · ❀ · ✿`
+<!-- 🌿 VINE DIVIDER -->
+<img src="./assets/divider.svg" width="55%" />
 
 </div>
 
@@ -181,7 +172,8 @@ waste 10 min looking for a chair.
 
 <div align="center">
 
-`✿ · ❀ · ✿ · ❀ · ✿ · ❀ · ✿`
+<!-- 🌿 VINE DIVIDER -->
+<img src="./assets/divider.svg" width="55%" />
 
 <br><br>
 
@@ -189,13 +181,13 @@ waste 10 min looking for a chair.
 
 <br>
 
-🌱 building backend-heavy systems & ai pipelines  
-🌻 contributing to open source  
-🌸 exploring new rabbit holes i'll never finish  
+<!-- 🪴 ANIMATED POTTED PLANTS — three plants sway on a wooden shelf -->
+<img src="./assets/growing.svg" width="60%" />
 
-<br>
+<br><br>
 
-`✿ · ❀ · ✿ · ❀ · ✿ · ❀ · ✿`
+<!-- 🌿 VINE DIVIDER -->
+<img src="./assets/divider.svg" width="55%" />
 
 <br><br>
 
@@ -207,7 +199,7 @@ waste 10 min looking for a chair.
 
 <br><br>
 
-<!-- 🌅 SUNSET FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88D8B0,25:C8A2E8,50:FFB4C8,75:FFB347,100:FFE4E1&height=100&section=footer&animation=twinkling" width="100%" />
+<!-- 🌅 ANIMATED SUNSET FOOTER — glowing flowers on rolling hills -->
+<img src="./assets/footer.svg" width="100%" />
 
 </div>
