@@ -33,7 +33,6 @@
 
 <br>
 
-<img align="right" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="girl coding" />
 
 second-year cs student at reva university, bangalore.  
 i build full-stack apps, break things at hackathons,  
